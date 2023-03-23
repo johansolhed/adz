@@ -4,7 +4,7 @@ Support contact for the app is johan.solhed@gmail.com.
 
 I'm happy to receive bug reports and ideas for improvements.
 
-Pls remember the app is free so support will be on best effor basis.
+Pls remember the app is free so support will be on best effor basis...
 
 
 You can use the [editor on GitHub](https://github.com/johansolhed/adz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
